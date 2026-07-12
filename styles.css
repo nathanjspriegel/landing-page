@@ -58,6 +58,7 @@ body {
   width: 100px;
   background-color: #3882F6;
   color: #F9FAF8;
+  border: 2px solid #3882F6;
   border-radius: 8px;
   padding: 8px;
   font-size: 18px;
@@ -188,8 +189,8 @@ h1, h2, h3, h4 {
   width: 100px;
   background-color: #3882F6;
   color: #F9FAF8;
+  border: 2px solid #F9FAF8;
   border-radius: 8px;
-  border-color: #F9FAF8;
   padding: 8px;
   font-size: 18px;
   margin-top: 10px;
